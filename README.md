@@ -46,4 +46,4 @@ This app is not linked to any real-world drill or safety procedure. It is solely
 
 **Gopal Poddar**  
 B.Sc IT Student | Android Developer  
-[LinkedIn](https://linkedin.com/in/gopalpoddar4) | [GitHub](https://github.com/gopalpoddar4)
+[LinkedIn](https://linkedin.com/in/gopalpoddar4) | [Portfolio](https://gopalpoddar4.github.io/Gopal-Portfolio/)
